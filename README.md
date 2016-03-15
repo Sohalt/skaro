@@ -2,7 +2,7 @@
 
 This is an implementation of the classic game [Robots](https://en.wikipedia.org/wiki/Robots_%28computer_game%29) in Clojure that I did way back in 2013.
 I just found it now (2016) while skimming through my hard drive.
-It is in not ideomatic or well written Clojure and not really suitable to learn anything (other than maybe what not to do), but I thought I might share it anyways.
+It is in not idiomatic or well written Clojure and not really suitable to learn anything (other than maybe what not to do), but I thought I might share it anyways.
 
 ## Prerequisites
 
